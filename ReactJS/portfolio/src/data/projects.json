@@ -1,0 +1,23 @@
+[
+    {
+      "title": "University Management System",
+      "imageSrc": "projects/project.png",
+      "description": "A group project where we build .NET application to issue degree, issue ID cards, give and view feedback, Lost and Found, Academic plan etc. ~ Contributed by Hareem and Yahya",
+      "skills": ["C #", "MS SQL"],
+      "source": "https://github.com/Amnakhaan/University-Management-System"
+    },
+    {
+      "title": "The Quest for the Crystal Kingdom",
+      "imageSrc": "projects/project.png",
+      "description": "This game is an exciting text based adventure game where the player embarks on a perilous journey to retrieve a legendary crystal from a dangerous and enchanted forest",
+      "skills": ["C++"],
+      "source": "https://github.com/Amnakhaan/The-Quest-for-the-Crystal-Kingdom"
+    },
+    {
+      "title": "Glaucoma Detection using ML and unsupervised Segmentation",
+      "imageSrc": "projects/project.png",
+      "description": "This is a project uses Fundus Images and masks to detect Glaucoma patients and train ML model using U-Net architecture .",
+      "skills": ["Python", "Open CV"],
+      "source": "https://github.com/Amnakhaan"
+    }
+  ]

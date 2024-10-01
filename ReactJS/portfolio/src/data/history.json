@@ -1,0 +1,31 @@
+[
+    
+  {
+    "role": "Data Science Fellowship",
+    "organisation": "Bytewise Limited",
+    "startDate": "June 10,2024",
+    "endDate": "present (Remote)",
+    "experiences": ["Working in Python", "Build ML models"],
+    "imageSrc": "history/bytewise.png"
+  },
+  {
+      "role": "Data Analyst",
+      "organisation": "Mentorness",
+      "startDate": "June 2,2024",
+      "endDate": "June 22,2024",
+      "experiences": ["Worked on MS SQL", "Analysis in Power BI"],
+      "imageSrc": "history/mentorness.png"
+    },
+
+    {
+      "role": "Data Engineering",
+      "organisation": "British Airways",
+      "startDate": "",
+      "endDate": "Job Simulation",
+      "experiences": [
+        "Data pre-processing and EDA",
+        "Classification and Regression using Random Forest Algorithm"
+      ],
+      "imageSrc": "history/BA.png"
+    }
+  ]

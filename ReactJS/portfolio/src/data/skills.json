@@ -1,0 +1,30 @@
+[
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "Open CV",
+      "imageSrc": "skills/opencv.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "C#",
+      "imageSrc": "skills/C.png"
+    },
+    {
+      "title": "Power BI",
+      "imageSrc": "skills/PowerBI.png"
+    },
+    {
+      "title": "MongoDB",
+      "imageSrc": "skills/mongodb.png"
+    },
+    {
+      "title": "Figma",
+      "imageSrc": "skills/figma.png"
+    }
+  ]
