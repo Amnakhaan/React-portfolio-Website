@@ -50,8 +50,7 @@ To set up this project locally, follow these steps:
    npm start
    ```
 
-5. Open the Project
-   [REACT Portfolio Website](https://amnakhaan.netlify.app/)
+[**Live REACT Portfolio Website**](https://amnakhaan.netlify.app/)
 
 ## Usage
 
