@@ -1,3 +1,4 @@
+![image_alt](https://github.com/Amnakhaan/React-portfolio-Website/blob/2656b15beb1d3198d24ad16a2c148a0ad5420f36/banner%20portfolio.png)
 # React Portfolio Project
 
 Welcome to my portfolio project! This project is built using React to showcase my skills, experiences, and projects in a visually appealing and interactive way. It is a fully responsive, modern portfolio website designed to highlight my professional achievements and provide an easy way for potential employers or collaborators to learn more about me.
@@ -51,7 +52,7 @@ To set up this project locally, follow these steps:
 
 5. Open the Project
   ```bash
-   https://amnakhaan.netlify.app/](https://amnakhaan.netlify.app/
+   https://amnakhaan.netlify.app/
    ```
 ## Usage
 
