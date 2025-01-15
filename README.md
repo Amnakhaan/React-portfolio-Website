@@ -51,7 +51,7 @@ To set up this project locally, follow these steps:
 
 5. Open the Project
   ```bash
-   [https://amnakhaan.netlify.app/](https://amnakhaan.netlify.app/)
+   https://amnakhaan.netlify.app/](https://amnakhaan.netlify.app/
    ```
 ## Usage
 
