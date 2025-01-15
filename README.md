@@ -51,9 +51,8 @@ To set up this project locally, follow these steps:
    ```
 
 5. Open the Project
-  ```bash
    [REACT Portfolio Website](https://amnakhaan.netlify.app/)
-   ```
+
 ## Usage
 
 1. **Navigation**:
